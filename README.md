@@ -21,3 +21,12 @@ DESCRIPTION:
 [Activity 2 INSIGHT26-31](https://github.com/Concha09/Elec303_3C_DATA_ANALYTICS/blob/main/Activity2-(Insight26-31).ipynb)
 
 [Activity 2 INSIGHT32-35](https://github.com/Concha09/Elec303_3C_DATA_ANALYTICS/blob/main/Act2_insight32-35.ipynb)
+
+
+
+# Activity3-Dengue
+
+Description:
+      This activity explores the data of dengue cases and dengue deaths in such regions.
+ 
+[Activity 3](https://github.com/Concha09/Elec303_3C_DATA_ANALYTICS/blob/main/act1_finals.ipynb) 
