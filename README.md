@@ -30,3 +30,9 @@ Description:
       This activity explores the data of dengue cases and dengue deaths in such regions.
  
 [Activity 3](https://github.com/Concha09/Elec303_3C_DATA_ANALYTICS/blob/main/act1_finals.ipynb) 
+
+
+
+# Activity3-Dengue
+ 
+[Online_Assignment](https://github.com/Concha09/Elec303_3C_DATA_ANALYTICS/blob/main/Concha_AlanisDanica_SalaryPrediction.ipynb)
