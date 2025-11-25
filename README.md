@@ -43,4 +43,4 @@ Description:
 Description:
       This explores predictive visualizations also a linear regresion. This can help us to execute predictive insights.
  
-[PROJECT 4]([(https://github.com/Concha09/Elec303_3C_DATA_ANALYTICS/blob/main/PROJECT4.ipynb]) 
+[PROJECT 4](https://github.com/Concha09/Elec303_3C_DATA_ANALYTICS/blob/main/PROJECT4.ipynb) 
