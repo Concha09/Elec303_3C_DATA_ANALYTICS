@@ -58,4 +58,4 @@ Description:
 
 Description:
       
-[PROJECT 6]() 
+[PROJECT 6](https://github.com/Concha09/Elec303_3C_DATA_ANALYTICS/blob/main/Project6_TitanicSurvavility_MachineLearning.ipynb) 
