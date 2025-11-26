@@ -44,3 +44,18 @@ Description:
       This explores predictive visualizations also a linear regresion. This can help us to execute predictive insights.
  
 [PROJECT 4](https://github.com/Concha09/Elec303_3C_DATA_ANALYTICS/blob/main/PROJECT4.ipynb) 
+
+
+# PROJECT5-Housing_machine_learning
+
+Description:
+      
+[PROJECT 5](https://github.com/Concha09/Elec303_3C_DATA_ANALYTICS/blob/main/Project5_HOUSING_Machine_Learning_Exercise.ipynb) 
+
+
+
+# PROJECT6-TitanicSurvavility_MachineLearning
+
+Description:
+      
+[PROJECT 6]() 
